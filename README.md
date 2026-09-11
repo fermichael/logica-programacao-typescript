@@ -50,29 +50,6 @@ O domínio de **tipagem em TypeScript** proporciona uma base sólida para:
 - Facilitar a transição para outras linguagens tipadas
 - Entender melhor a arquitetura de dados e fluxo de tipos em aplicações modernas
 
-## Como Usar
-
-1. **Clonar o repositório:**
-```bash
-git clone https://github.com/fermichael/logica-programacao-typescript.git
-cd logica-programacao-typescript
-```
-
-2. **Instalar dependências:**
-```bash
-npm install
-```
-
-3. **Compilar TypeScript:**
-```bash
-npm run build
-```
-
-4. **Executar um arquivo específico:**
-```bash
-npx ts-node src/modules/basic-types/type-annotation.ts
-```
-
 ---
 
-*Repositório mantido por [fermichael] - Estudante de Programação e Desenvolvimento.*
+*Repositório mantido por [Michael Fernando] - Estudante de Programação e Desenvolvimento.*
