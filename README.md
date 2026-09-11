@@ -52,4 +52,4 @@ O domínio de **tipagem em TypeScript** proporciona uma base sólida para:
 
 ---
 
-*Repositório mantido por [Michael Fernando] - Estudante de Programação e Desenvolvimento.*
+*Repositório mantido por [Michael Fernando] - Estudante de Análise e Desenvolvimento de Sistemas.*
